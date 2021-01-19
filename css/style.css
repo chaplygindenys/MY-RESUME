@@ -1,0 +1,131 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f7fa;
+    font-family: Montserrat;
+    padding: 40px;
+}
+.main-container {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+.photo-contacts-skils {
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0px;
+    background: #1e2939;
+}
+
+.Contacts-container {
+    color: #ffffff;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+
+.Contacts-title {
+    margin-bottom: 20px;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.contacts-type {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.contacts-a {
+    margin-left: 10px;
+    color: #e0e1e3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Tech-Skills-container {
+    color: #ffffff;
+    width: 370px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+
+.Tech-Skills-title {
+    margin-bottom: 20px;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.Tech-Skills-item {
+    color: #f2670b;
+    margin-left: 20px;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Tech-Skills-text {
+    color: #e0e1e3;
+}
+
+.Soft-Skills-container {
+    color: #ffffff;
+    width: 370px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+.Soft-Skills-title {
+    margin-bottom: 20px;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.Soft-Skills-item {
+    color: #f2670b;
+    margin-left: 20px;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Soft-Skills-text {
+    color: #e0e1e3;
+}
+
+.about-me-container {
+    padding-left: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.about-me-main-info {
+}
+.project-container {
+}
+.Work-Expirience-container {
+}
+.compani-1 {
+}
+.compani-2 {
+}
+.compani-3 {
+}
+.Education-container {
+}
